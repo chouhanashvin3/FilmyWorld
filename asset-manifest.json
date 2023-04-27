@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FilmyWorld/static/css/main.51520fd6.css",
+    "main.js": "/FilmyWorld/static/js/main.339bb56a.js",
+    "index.html": "/FilmyWorld/index.html",
+    "main.51520fd6.css.map": "/FilmyWorld/static/css/main.51520fd6.css.map",
+    "main.339bb56a.js.map": "/FilmyWorld/static/js/main.339bb56a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51520fd6.css",
+    "static/js/main.339bb56a.js"
+  ]
+}
